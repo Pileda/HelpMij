@@ -9,6 +9,7 @@ namespace BeerhallEF
     {
         public static void Main(string[] args)
         {
+
         }
     }
 }
